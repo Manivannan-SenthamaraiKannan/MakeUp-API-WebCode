@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+NP+Hmong:wght@400;500;600;700&display=swap");
+
+:root {
+  font-family: "Noto Serif NP Hmong", serif;
+}
+
+.head {
+  background-color: #f5e7df;
+}
+
+.brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.midPage{
+  display: block;
+  width: 60%;
+  padding-left: 70px;
+}
